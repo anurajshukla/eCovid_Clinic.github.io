@@ -52,6 +52,7 @@ The project is created using
 1. Gagan Srivastava
 2. Joel Varghese
 3. Subhranil Dutta
+4. Anuraj Shukla
 ## Screenshots
 
 🏚️ Home
